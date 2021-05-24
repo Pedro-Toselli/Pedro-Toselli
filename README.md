@@ -1,3 +1,4 @@
+
 <div>
   <p><strong>Olá 👋, eu sou o Pedro-Toselli</strong></p>
   <p> Sou uma pessoa criativa que ama trabalhar em equipe!! <br> então bora codar enquanto desenvolvemos nossas soft-skills e fazemos novas amizades 🙌 </p>
@@ -56,7 +57,7 @@
    <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
-   <img alt="Linkedin de Pedro Toselli" width="40px" src="">
+   <img alt="Linkedin de Pedro Toselli" width="40px" src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621892928~hmac=984a9b705a052abba82e10c8795cbed2">
   </a>
   
 <!--   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
