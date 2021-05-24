@@ -48,7 +48,7 @@
 
 <div>
   <p><strong>No tempo livre eu...</strong></p>
-  <p>Gosto muito de ver os avancos tecnológicos, e também, ler sobre projetos de redução dos impactos ambientais e energia limpa.</p>
+  <p>Gosto muito de ver os avanços tecnológicos, e também, ler sobre projetos de redução dos impactos ambientais e energia limpa.</p>
 </div>
 
 <br>
