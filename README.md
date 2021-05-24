@@ -1,4 +1,5 @@
 <p>Olá 👋, eu sou o Pedro-Toselli</p>
+
 <a hrel="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
 <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
 </a>
@@ -12,6 +13,10 @@
 <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
 <img width="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" />
 </p>
+
+<a hrel="https://drive.google.com/file/d/1J-r_RgoabvvtvuTyoCKAjBJBPXUHjJBB/view?usp=sharing">
+Certificado-Fundamentos do desenvolvimento web
+</a>
 
 
 - 👀 I’m interested in ...
