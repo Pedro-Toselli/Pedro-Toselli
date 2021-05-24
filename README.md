@@ -59,7 +59,7 @@
    <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
-   <img alt="Linkedin de Pedro Toselli" width="40px" src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621892928~hmac=984a9b705a052abba82e10c8795cbed2">
+   <img alt="Linkedin de Pedro Toselli" width="40px" src="https://user-images.githubusercontent.com/73919445/119417237-c38b4780-bccb-11eb-8001-3e84505a84f5.png">
   </a>
   
 <!--   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
