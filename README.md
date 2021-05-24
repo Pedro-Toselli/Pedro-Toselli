@@ -1,5 +1,5 @@
 <div>
-  <p><strong>Olá 👋, eu sou o Pedro-Toselli</strong> (mais conhecido como Poeta)</p>
+  <p><strong>Olá 👋, eu sou o Pedro-Toselli</strong></p>
   <p> Sou uma pessoa criativa que ama trabalhar em equipe!! <br> então bora codar enquanto desenvolvemos nossas soft-skills e fazemos novas amizades 🙌 </p>
 </div>
 
@@ -55,6 +55,14 @@
   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
    <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
+  <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
+   <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
+  <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
+   <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  </a>
 </div>
+
+<a href="mailto:someone@example.com?subject=Questions&body=Write here if you have questions" title="" >Perguntas aqui</a>
 
 
