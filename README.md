@@ -55,14 +55,22 @@
   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
    <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
-   <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
+  <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
+   <img alt="Linkedin de Pedro Toselli" width="40px" src="">
   </a>
-  <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
+  
+<!--   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
    <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a>
+  </a> -->
+  <br>
+  ✉️ <strong>e-mail:</strong> <a href="mailto:phtoselli@gmail.com?Subject=Vim%20pelo%20seu%20github%20para%20te%20dizer%20...">phtoselli@gmail.com</a>
 </div>
 
-<a href="mailto:someone@example.com?subject=Questions&body=Write here if you have questions" title="" >Perguntas aqui</a>
+<br>
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true)](https://github.com/Pedro-Toselli/github-readme-stats)
+
+As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub</a> .
+
+<br>
