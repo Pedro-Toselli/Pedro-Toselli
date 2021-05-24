@@ -1,5 +1,9 @@
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px">
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px"> <br>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/j5oP7zSilio3SewxAA/giphy.gif" width="400px"> <br>
+
+<img align="right" alt="GIF" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400px"> <br>
 
 <div>
   <p><strong>Olá 👋, eu sou o Pedro-Toselli</strong></p>
