@@ -19,7 +19,7 @@
 <br>  
 
 <div>
-  <p><strong>linguagens e ferramentas: </strong></p>
+  <p><strong>Linguagens e ferramentas: </strong></p>
 <p>
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
