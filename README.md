@@ -84,5 +84,4 @@ As estatísticas do github foram usadas com base no <a target="_blank" href="htt
   <img align="center" alt="GIF" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="80px">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="80px">
   <img align="center" alt="GIF" src="https://media.giphy.com/media/905GG7MjDw61q/giphy.gif" width="80px">
-  
 </p>
