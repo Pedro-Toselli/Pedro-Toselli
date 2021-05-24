@@ -1,5 +1,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="400px"> <br>
 
+
 <div>
   <p><strong>Olá 👋, eu sou o Pedro-Toselli</strong></p>
   <p> Sou uma pessoa criativa que ama trabalhar em equipe!! <br> então bora codar enquanto desenvolvemos nossas soft-skills e fazemos novas amizades 🙌 </p>
@@ -76,3 +77,12 @@
 As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub</a> .
 
 <br>
+
+<p><strong>Gifs de gatinhos codando pra alegrar seu dia...</strong></p>
+<p>
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="80px">
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="80px">
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="80px">
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/905GG7MjDw61q/giphy.gif" width="80px">
+  
+</p>
