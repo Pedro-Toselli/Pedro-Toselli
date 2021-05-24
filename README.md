@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" width="400px"> <br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif" width="400px"> <br>
 
 <div>
   <p><strong>Olá 👋, eu sou o Pedro-Toselli</strong></p>
