@@ -1,4 +1,6 @@
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="400px">
+
 <div>
   <p><strong>Olá 👋, eu sou o Pedro-Toselli</strong></p>
   <p> Sou uma pessoa criativa que ama trabalhar em equipe!! <br> então bora codar enquanto desenvolvemos nossas soft-skills e fazemos novas amizades 🙌 </p>
