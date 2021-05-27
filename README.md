@@ -41,6 +41,7 @@
    <li>🐱 Sou apaixonado por gatos, mesmo não podendo ter um. </li>
     <li>🌎 Gostaria muito de codar em Home office enquanto viajo pelo mundo. </li>
     <li>💁 Inclusão, respeito e empatia são valores importantíssimos que sempre levo comigo.</li>
+    <li> 🍵 Chá > Café ☕ </li>
   </ul>
 </div>
 
