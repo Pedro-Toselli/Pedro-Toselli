@@ -66,10 +66,6 @@
   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
    <img alt="Linkedin de Pedro Toselli" width="40px" src="https://user-images.githubusercontent.com/73919445/119417237-c38b4780-bccb-11eb-8001-3e84505a84f5.png">
   </a>
-  
-<!--   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
-   <img alt="LinkdeIn de Pedro Toselli" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
-  </a> -->
   <br>
   ✉️ <strong>e-mail:</strong> <a href="mailto:phtoselli@gmail.com?Subject=Vim%20pelo%20seu%20github%20para%20te%20dizer%20...">phtoselli@gmail.com</a>
 </div>
