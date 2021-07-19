@@ -14,7 +14,7 @@
   <a target="_blank" href="https://drive.google.com/file/d/1J-r_RgoabvvtvuTyoCKAjBJBPXUHjJBB/view?usp=sharing">
     Certificado - Fundamentos de Desenvolvimento Web | Trybe
   </a>
-  .
+  <br>
   <a target="_blank" href="https://drive.google.com/file/d/1IYLdaa5c5Yx35Ooe7ZMKXhDUt9mSr685/view?usp=sharing">
     Certificado - Front-End | Trybe
   </a>
