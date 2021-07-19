@@ -16,6 +16,10 @@
   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
    <img alt="Linkedin de Pedro Toselli" width="40px" src="https://user-images.githubusercontent.com/73919445/119417237-c38b4780-bccb-11eb-8001-3e84505a84f5.png">
   </a>
+<!--   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
+   <img alt="Linkedin de Pedro Toselli" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
+  </a>  -->
+  
   <br>
   ✉️ <strong>e-mail:</strong> <a href="mailto:phtoselli@gmail.com?Subject=Vim%20pelo%20seu%20github%20para%20te%20dizer%20...">phtoselli@gmail.com</a>
 </div>
@@ -41,10 +45,11 @@
 <p>
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
+  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
   <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
-  <img width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img width="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" />
+<!--   <img width="50px" src="https://pics.freeicons.io/uploads/icons/png/5894313931548218185-512.png" /> jest -->
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /> 
 <!--  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> -->
 <!--   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> -->
