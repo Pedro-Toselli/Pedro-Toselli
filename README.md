@@ -27,20 +27,6 @@
 <br>
 
 <div>
-  <p> <strong>Sobre meus estudos...</strong></P>
-  <p> Atualmente, sou estudante de desenvolvimento Web Full-Stack na Trybe. </p>
-  <a target="_blank" href="https://drive.google.com/file/d/1J-r_RgoabvvtvuTyoCKAjBJBPXUHjJBB/view?usp=sharing">
-    Certificado - Fundamentos de Desenvolvimento Web | Trybe
-  </a>
-  <br>
-  <a target="_blank" href="https://drive.google.com/file/d/1IYLdaa5c5Yx35Ooe7ZMKXhDUt9mSr685/view?usp=sharing">
-    Certificado - Front-End | Trybe
-  </a>
-</div>
-
-<br>  
-
-<div>
   <p><strong>Linguagens e ferramentas: </strong></p>
 <p>
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" />
@@ -56,6 +42,20 @@
   <img width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
   <img width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </p>
+</div>
+
+<br>  
+
+<div>
+  <p> <strong>Sobre meus estudos...</strong></P>
+  <p> Atualmente, sou estudante de desenvolvimento Web Full-Stack na Trybe. </p>
+  <a target="_blank" href="https://drive.google.com/file/d/1J-r_RgoabvvtvuTyoCKAjBJBPXUHjJBB/view?usp=sharing">
+    Certificado - Fundamentos de Desenvolvimento Web | Trybe
+  </a>
+  <br>
+  <a target="_blank" href="https://drive.google.com/file/d/1IYLdaa5c5Yx35Ooe7ZMKXhDUt9mSr685/view?usp=sharing">
+    Certificado - Front-End | Trybe
+  </a>
 </div>
 
 <br>
