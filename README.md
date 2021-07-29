@@ -63,8 +63,8 @@
   <p><strong>Sobre mim ...</strong></p>
   <ul>
     <li>🙇‍♂️ Tenho 21 anos. </li>
-    <li>🎮 Meu hobby favorito se resume em jogar <a href="https://teamfighttactics.leagueoflegends.com/pt-br/">TFT</a> e outros jogos online no geral. </li>
-   <li>🐱 Sou apaixonado por gatos. </li>
+    <li>🎮 Meu hobby favorito se resume em jogar video-game com meus amigos. </li>
+    <li>🐱 Sou apaixonado por gatos. </li>
     <li>🌎 Gostaria muito de codar em Home office enquanto viajo pelo mundo. </li>
     <li>💁 Inclusão, respeito e empatia são valores importantíssimos que sempre levo comigo.</li>
   </ul>
