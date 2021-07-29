@@ -6,7 +6,7 @@
   <p> Sou uma pessoa criativa que ama trabalhar em equipe!! <br> então bora codar enquanto desenvolvemos nossas soft-skills e fazemos novas amizades 🙌 </p>
 </div>
 
-<br>
+##
 
 <div id="social">
   <p><strong>📫 Entre em contato comigo:</strong></p>
@@ -24,7 +24,7 @@
   </a>
 </div>
 
-<br>
+##
 
 <div id="tools">
   <p><strong>Linguagens e ferramentas: </strong></p>
@@ -46,7 +46,6 @@
   <a target="_blank" href="https://jestjs.io/pt-BR/docs/getting-started" rel="nofollow">
     <img alt="Jest" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   </a>
-  
   <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
     <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   </a>
@@ -61,7 +60,7 @@
   </a>
 </div>
 
-<br>  
+##
 
 <div id="study">
   <p> <strong>Sobre meus estudos...</strong></P>
@@ -77,7 +76,7 @@
   </a>
 </div>
 
-<br>
+##
 
 <div id="about">
   <p><strong>Sobre mim ...</strong></p>
@@ -90,20 +89,20 @@
   </ul>
 </div>
 
-<br>
+##
 
 <div id="hobbye">
   <p><strong>No tempo livre eu...</strong></p>
   <p>Gosto muito de ver os avanços tecnológicos, e também, ler sobre projetos de redução dos impactos ambientais e energia limpa.</p>
 </div>
 
-<br>
+##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true)](https://github.com/Pedro-Toselli/github-readme-stats)
 
 As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub</a> .
 
-<br>
+##
 
 <div id="cat-gifs">
   <p><strong>Gifs de gatinhos codando pra alegrar seu dia...</strong></p>
