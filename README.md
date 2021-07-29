@@ -16,7 +16,7 @@
   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
    <img alt="Linkedin de Pedro Toselli" width="40px" src="https://user-images.githubusercontent.com/73919445/119417237-c38b4780-bccb-11eb-8001-3e84505a84f5.png">
   </a>
-<!--   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
+<!--   <a target="_blank" href="LINK DO FACEBOOK" rel="nofollow">
    <img alt="Linkedin de Pedro Toselli" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
   </a>  -->
   
