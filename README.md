@@ -37,9 +37,11 @@
   <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
     <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
+<!--
   <a target="_blank" href="https://www.typescriptlang.org/docs/" rel="nofollow">
     <img alt="Type script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   </a>
+-->
   <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
     <img alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
