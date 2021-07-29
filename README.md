@@ -16,12 +16,17 @@
   </a>
   
   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
-   <img alt="Linkedin de Pedro Toselli" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+   <img alt="Instagram de Pedro Toselli" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
   <a href="mailto:phtoselli@gmail.com?Subject=Título%20da%20mensagem">
-    <img alt="Twitter de Pedro Toselli" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Gmail de Pedro Toselli" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  
+  <a target="_blank" href="https://github.com/Pedro-Toselli" rel="nofollow">
+    <img alt="Github de Pedro Toselli" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  
 </div>
 
 <br>
