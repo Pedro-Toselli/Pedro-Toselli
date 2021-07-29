@@ -19,18 +19,9 @@
    <img alt="Linkedin de Pedro Toselli" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
   
-<!--   <a target="_blank" href="phtoselli@gmail.com" rel="nofollow">
-   <img alt="Twitter de Pedro Toselli" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a> -->
-  
-<!--   <a target="_blank" href="LINK FACEBOOK" rel="nofollow">
-   <img alt="Facebook de Pedro Toselli" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
-  </a> -->
-  
-<!--   <a target="_blank" href="LINK TWITTER" rel="nofollow">
-   <img alt="Twitter de Pedro Toselli" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-  </a> -->
-  
+  <a href="mailto:phtoselli@gmail.com?Subject=Título%20da%20mensagem">
+    <img alt="Twitter de Pedro Toselli" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </div>
 
 <br>
