@@ -10,16 +10,45 @@
 
 <div id="social">
   <p><strong>📫 Entre em contato comigo:</strong></p>
+  
+  <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
+   <img alt="LinkdeIn de Pedro Toselli" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  
+  <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
+   <img alt="Linkedin de Pedro Toselli" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  
+<!--   <a target="_blank" href="phtoselli@gmail.com" rel="nofollow">
+   <img alt="Twitter de Pedro Toselli" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a> -->
+  
+<!--   <a target="_blank" href="LINK FACEBOOK" rel="nofollow">
+   <img alt="Facebook de Pedro Toselli" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a> -->
+  
+<!--   <a target="_blank" href="LINK TWITTER" rel="nofollow">
+   <img alt="Twitter de Pedro Toselli" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a> -->
+  
+</div>
+
+
+
+<!-- <div id="social">
+  <p><strong>📫 Entre em contato comigo:</strong></p>
   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
    <img alt="LinkdeIn de Pedro Toselli" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg">
   </a>
+
   <a target="_blank" href="https://www.instagram.com/phtoselli/" rel="nofollow">
    <img alt="Linkedin de Pedro Toselli" width="30px" src="https://user-images.githubusercontent.com/73919445/119417237-c38b4780-bccb-11eb-8001-3e84505a84f5.png">
   </a>
-<!--   <a target="_blank" href="LINK DO FACEBOOK" rel="nofollow">
+
+  <a target="_blank" href="LINK DO FACEBOOK" rel="nofollow">
    <img alt="Linkedin de Pedro Toselli" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg">
-  </a>  -->
-</div>
+  </a>
+</div> -->
 
 <br>
 
