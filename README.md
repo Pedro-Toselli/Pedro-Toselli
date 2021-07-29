@@ -26,6 +26,22 @@
 
 ##
 
+<div id="study">
+  <p> <strong>Sobre meus estudos...</strong></P>
+  <p> Atualmente, sou estudante de desenvolvimento Web Full-Stack na Trybe. </p>
+  <a target="_blank" href="https://drive.google.com/file/d/1J-r_RgoabvvtvuTyoCKAjBJBPXUHjJBB/view?usp=sharing">
+    Certificado - Fundamentos de Desenvolvimento Web | Trybe
+  </a>
+  
+  <br>
+  
+  <a target="_blank" href="https://drive.google.com/file/d/1IYLdaa5c5Yx35Ooe7ZMKXhDUt9mSr685/view?usp=sharing">
+    Certificado - Front-End | Trybe
+  </a>
+</div>
+
+##
+
 <div id="tools">
   <p><strong>Linguagens e ferramentas: </strong></p>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
@@ -67,22 +83,6 @@
 
 ##
 
-<div id="study">
-  <p> <strong>Sobre meus estudos...</strong></P>
-  <p> Atualmente, sou estudante de desenvolvimento Web Full-Stack na Trybe. </p>
-  <a target="_blank" href="https://drive.google.com/file/d/1J-r_RgoabvvtvuTyoCKAjBJBPXUHjJBB/view?usp=sharing">
-    Certificado - Fundamentos de Desenvolvimento Web | Trybe
-  </a>
-  
-  <br>
-  
-  <a target="_blank" href="https://drive.google.com/file/d/1IYLdaa5c5Yx35Ooe7ZMKXhDUt9mSr685/view?usp=sharing">
-    Certificado - Front-End | Trybe
-  </a>
-</div>
-
-##
-
 <div id="about">
   <p><strong>Sobre mim ...</strong></p>
   <ul>
@@ -109,9 +109,9 @@
 
 As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub</a> .
 
-<a target="_blank" href="https://www.codewars.com/users/Pedro-Toselli" rel="nofollow">
+<!-- <a target="_blank" href="https://www.codewars.com/users/Pedro-Toselli" rel="nofollow">
 <img alt="Pedro Toselli Code wars" src="https://www.codewars.com/users/Pedro-Toselli/badges/small" />
-</a>
+</a> -->
 
 ##
 
