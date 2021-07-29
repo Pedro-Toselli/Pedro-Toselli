@@ -107,6 +107,10 @@
 
 As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub</a> .
 
+<a target="_blank" href="https://www.codewars.com/users/Pedro-Toselli" rel="nofollow">
+<img alt="Pedro Toselli Code wars" src="https://www.codewars.com/users/Pedro-Toselli/badges/small" />
+</a>
+
 ##
 
 <div id="cat-gifs">
