@@ -21,7 +21,7 @@
   </a>  -->
   
   <br>
-  ✉️ <strong>e-mail:</strong> <a href="mailto:phtoselli@gmail.com?Subject=Vim%20pelo%20seu%20github%20para%20te%20dizer%20...">phtoselli@gmail.com</a>
+<!--   ✉️ <strong>e-mail:</strong> <a href="mailto:phtoselli@gmail.com?Subject=Vim%20pelo%20seu%20github%20para%20te%20dizer%20...">phtoselli@gmail.com</a> -->
 </div>
 
 <br>
