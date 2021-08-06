@@ -54,12 +54,16 @@
   <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
     <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   </a>
+<!--
   <a target="_blank" href="https://dev.mysql.com/doc/" rel="nofollow">
     <img alt="my Sql" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   </a>
+-->
+<!--
   <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
     <img alt="mongo db" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   </a>
+-->
   <a target="_blank" href="https://git-scm.com/doc" rel="nofollow">
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </a>
