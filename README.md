@@ -51,9 +51,11 @@
   <a target="_blank" href="https://jestjs.io/pt-BR/docs/getting-started" rel="nofollow">
     <img alt="Jest" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   </a>
+<!--
   <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
     <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   </a>
+-->
 <!--
   <a target="_blank" href="https://dev.mysql.com/doc/" rel="nofollow">
     <img alt="my Sql" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
