@@ -128,7 +128,7 @@
 <img alt="Pedro Toselli Code wars" src="https://www.codewars.com/users/Pedro-Toselli/badges/small" />
 </a> -->
 
-##
+<!-- ## -->
 
 <div id="cat-gifs">
   <p><strong>Gifs de gatinhos codando pra alegrar seu dia...</strong></p>
