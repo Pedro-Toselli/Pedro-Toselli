@@ -3,7 +3,7 @@
 
 <div id="title">
   <p><strong>Olá 👋, eu sou o Pedro-Toselli</strong></p>
-  <p> Sou uma pessoa criativa que ama trabalhar em equipe!! <br> Então bora codar enquanto desenvolvemos nossas soft-skills e fazemos novas amizades!! 🙌 </p>
+  <p> 🚀 Um dev júnior engajado, que ama aprender !!! 😄 </p>
 </div>
 
 ##
