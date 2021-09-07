@@ -28,24 +28,32 @@
 
 <div id="tools">
   <p><strong>Front-end: </strong></p>
+  <p>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
     <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   </a>
+    &nbsp;&nbsp;
   <a target="_blank" href="https://www.w3schools.com/cssref/default.asp" rel="nofollow">
     <img alt="css3" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
   </a>
+    &nbsp;&nbsp;
   <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
     <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
+    &nbsp;&nbsp;
   <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
     <img alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
-
+    &nbsp;&nbsp;
+  </p>
 
  <p><strong>Back-end: </strong></p>
+  <p>
   <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
     <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   </a>
+    &nbsp;&nbsp;
+  </p>
 
 <!--
    <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
@@ -60,25 +68,32 @@
 
 <div id="tools">
   <p><strong>Estudando... </strong></p>
-
+  <p>
   <a target="_blank" href="https://www.typescriptlang.org/docs/" rel="nofollow">
     <img alt="Type script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://redux.js.org/introduction/getting-started" rel="nofollow">
     <img alt="Redux" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://jestjs.io/pt-BR/docs/getting-started" rel="nofollow">
     <img alt="Jest" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://dev.mysql.com/doc/" rel="nofollow">
     <img alt="my Sql" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
     <img alt="mongo db" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   </a>
+    &nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://git-scm.com/doc" rel="nofollow">
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </a>
+    &nbsp;&nbsp;&nbsp;
+  </p>
 </div>
 
 ##
