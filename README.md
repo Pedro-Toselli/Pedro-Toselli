@@ -1,11 +1,11 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400px"> <br>
 
 <div id="title">
-  <p><strong>Olá 👋, eu sou o 
+  <h3><strong>Olá 👋, eu sou o 
     <a target"_blank" href="https://github.com/Pedro-Toselli" rel="nofollow" style={"color: rgb(0,0,0);"}>
        Pedro-Toselli
      </a>
-    </strong></p>
+    </strong></h3>
   <p> 🚀 Um dev júnior engajado, que ama aprender !!! 😄 </p>
 </div>
 
