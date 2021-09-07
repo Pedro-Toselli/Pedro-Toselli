@@ -98,8 +98,14 @@
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </a>
     &nbsp;&nbsp;&nbsp;
+   <a target="_blank" href="https://docs.python.org/pt-br/3/" rel="nofollow">
+    <img alt="python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+  </a>
+    &nbsp;&nbsp;&nbsp;
   </p>
 </div>
+
+
 
 ##
 
