@@ -61,7 +61,7 @@
     <img alt="my Sql" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
   </a>
   <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
-    <img alt="mongo db" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
+    <img alt="mongo db" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   </a>
 
   <a target="_blank" href="https://git-scm.com/doc" rel="nofollow">
