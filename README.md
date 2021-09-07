@@ -72,9 +72,11 @@
 <div id="tools">
   <p><strong>Estudando... </strong></p>
   <p>
-  <a target="_blank" href="https://www.typescriptlang.org/docs/" rel="nofollow">
+<!--
+   <a target="_blank" href="https://www.typescriptlang.org/docs/" rel="nofollow">
     <img alt="Type script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   </a>
+ -->
     &nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://redux.js.org/introduction/getting-started" rel="nofollow">
     <img alt="Redux" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
