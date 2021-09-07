@@ -27,6 +27,38 @@
 ##
 
 <div id="tools">
+  <p><strong>Front-end: </strong></p>
+  <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
+    <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+  </a>
+  <a target="_blank" href="https://www.w3schools.com/cssref/default.asp" rel="nofollow">
+    <img alt="css3" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+  </a>
+  <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
+    <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  </a>
+  <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
+    <img alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>
+
+
+ <p><strong>Back-end: </strong></p>
+  <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
+    <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  </a>
+
+<!--
+   <a target="_blank" href="https://docs.mongodb.com/" rel="nofollow">
+    <img alt="mongo db" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  </a> 
+-->
+  
+</div>
+
+##
+
+
+<div id="tools">
   <p><strong>Estudando... </strong></p>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
     <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
