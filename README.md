@@ -60,6 +60,10 @@
     <img alt="mongo db" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" />
   </a>
     &nbsp;&nbsp;
+    <a target="_blank" href="https://dev.mysql.com/doc/" rel="nofollow">
+    <img alt="my Sql" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
+  </a>
+    &nbsp;&nbsp;&nbsp;
   </p>
 
 <!--
@@ -72,15 +76,10 @@
 
 ##
 
-
+<!-- 
 <div id="tools">
-  <p><strong>Estudando... </strong></p>
+  <p><strong>Ferramentas:</strong></p>
   <p>
-<!--
-   <a target="_blank" href="https://www.typescriptlang.org/docs/" rel="nofollow">
-    <img alt="Type script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  </a>
- -->
     &nbsp;&nbsp;&nbsp;
   <a target="_blank" href="https://redux.js.org/introduction/getting-started" rel="nofollow">
     <img alt="Redux" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -90,26 +89,18 @@
     <img alt="Jest" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   </a>
     &nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://dev.mysql.com/doc/" rel="nofollow">
-    <img alt="my Sql" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
+  
   <a target="_blank" href="https://git-scm.com/doc" rel="nofollow">
     <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
   </a>
     &nbsp;&nbsp;&nbsp;
-<!--
-    <a target="_blank" href="https://docs.python.org/pt-br/3/" rel="nofollow">
-    <img alt="python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
- -->
   </p>
 </div>
 
 
 
-##
+## 
+-->
 
 <div id="study">
   <p> <strong>Sobre meus estudos e experiências...</strong></P>
