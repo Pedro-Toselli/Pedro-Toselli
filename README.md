@@ -133,7 +133,7 @@
     <li>🙇‍♂️  Tenho 21 anos. </li>
     <li>🐱  Sou apaixonado por gatos. </li>
     <li>🎮  Meu hobby favorito se resume em jogar video-game com meus amigos. </li>
-    <li>🌎  Gostaria muito de codar em Home office enquanto viajo pelo mundo. </li>
+    <li>🌲  Natureza e tecnologia são a combinação perfeita para mim. </li>
     <li>💁  Inclusão, respeito e empatia são valores importantíssimos que sempre levo comigo.</li>
   </ul>
 </div>
