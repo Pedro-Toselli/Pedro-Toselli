@@ -133,7 +133,7 @@
     <li>🙇‍♂️  Tenho 21 anos. </li>
     <li>🐱  Sou apaixonado por gatos. </li>
     <li>🎮  Meu hobby favorito se resume em jogar video-game com meus amigos. </li>
-    <li>🌲  Natureza e tecnologia são a combinação perfeita para mim. </li>
+    <li>🍃  Natureza e tecnologia são a combinação perfeita para mim. </li>
     <li>💁  Inclusão, respeito e empatia são valores importantíssimos que sempre levo comigo.</li>
   </ul>
 </div>
@@ -142,7 +142,7 @@
 
 <div id="hobbye">
   <p><strong>No tempo livre eu...</strong></p>
-  <p>Gosto muito de ver os avanços tecnológicos, e também, ler sobre projetos de redução dos impactos ambientais e energia limpa.</p>
+  <p>Gosto muito de ver os avanços tecnológicos, e também, ler sobre projetos de redução dos impactos ambientais e energia limpa. 🌲</p>
 </div>
 
 ##
