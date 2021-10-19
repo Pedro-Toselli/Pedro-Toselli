@@ -95,13 +95,13 @@
 <div id="study">
   <p> <strong>Sobre meus estudos e experiências...</strong></P>
   <p> Atualmente, sou estudante de desenvolvimento Web Full-Stack na Trybe. </p>
-  <a target="_blank" href="https://drive.google.com/file/d/1J-r_RgoabvvtvuTyoCKAjBJBPXUHjJBB/view?usp=sharing">
+  <a target="_blank" href="https://drive.google.com/file/d/1jqwhwBGEGNBbbssT0z1MVhi2lSXfHsLy/view?usp=sharing">
     Certificado - Fundamentos de Desenvolvimento Web | Trybe
   </a>
   
   <br>
   
-  <a target="_blank" href="https://drive.google.com/file/d/1IYLdaa5c5Yx35Ooe7ZMKXhDUt9mSr685/view?usp=sharing">
+  <a target="_blank" href="https://drive.google.com/file/d/19ty_SJgSrI8rjslw6_H1C1p9erkUbYoF/view?usp=sharing">
     Certificado - Front-End | Trybe
   </a>
   
