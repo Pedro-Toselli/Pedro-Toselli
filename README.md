@@ -162,7 +162,7 @@
 <br>
 
 ##
-
+<!-- OLÁ DEV TRANQUILO(A)? ESPERO QUE SIM! CASO QUEIRA UTILIZAR ESSE TEMPLATE, FAVOR NÃO APAGAR A REFERÊNCIA ABAIXO <3  -->
 <div id="footer">
   🥇 Desenvolvido por <a href="https://github.com/Pedro-Toselli" >Pedro-Toselli</a>.
 </div>
