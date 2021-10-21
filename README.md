@@ -105,10 +105,17 @@
 
 #### Estatísticas...
   
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Toselli&layout=compact&theme=dracula)](https://github.com/Pedro-Toselli/github-readme-stats)
+-->
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula" width="350px" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Toselli&layout=compact&theme=dracula" width="350px" />
+</a>
 
 
 <!-- ## -->
