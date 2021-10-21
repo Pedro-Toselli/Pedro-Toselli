@@ -66,30 +66,6 @@
 
 ##
 
-<!-- 
-<div id="tools">
-  <p><strong>Ferramentas:</strong></p>
-  <p>
-    &nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://redux.js.org/introduction/getting-started" rel="nofollow">
-    <img alt="Redux" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  <a target="_blank" href="https://jestjs.io/pt-BR/docs/getting-started" rel="nofollow">
-    <img alt="Jest" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  
-  <a target="_blank" href="https://git-scm.com/doc" rel="nofollow">
-    <img alt="git" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" />
-  </a>
-    &nbsp;&nbsp;&nbsp;
-  </p>
-</div>
-
-
-
-## 
 -->
 
 <div id="study">
@@ -104,14 +80,6 @@
   <a target="_blank" href="https://drive.google.com/file/d/19ty_SJgSrI8rjslw6_H1C1p9erkUbYoF/view?usp=sharing">
     Certificado - Front-End | Trybe
   </a>
-  
-<!--
-  <br>
-  
-  <a target="_blank" href="">
-    Certificado - Back-End | Trybe
-  </a> 
--->
   
 </div>
 
@@ -137,15 +105,13 @@
 
 ##
 
-<!-- #### Estatísticas... -->
+#### Estatísticas...
+  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula)
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true)](https://github.com/Pedro-Toselli/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Toselli&layout=compact&theme=dracula)](https://github.com/Pedro-Toselli/github-readme-stats)
 
-<!-- As estatísticas do github foram usadas com base no <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">cartão de estatísticas do GitHub</a> . -->
 
-<!-- <a target="_blank" href="https://www.codewars.com/users/Pedro-Toselli" rel="nofollow">
-<img alt="Pedro Toselli Code wars" src="https://www.codewars.com/users/Pedro-Toselli/badges/small" />
-</a> -->
 
 <!-- ## -->
 
