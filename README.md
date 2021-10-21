@@ -66,8 +66,6 @@
 
 ##
 
--->
-
 <div id="study">
   <p> <strong>Sobre meus estudos e experiências...</strong></P>
   <p> Atualmente, sou estudante de desenvolvimento Web Full-Stack na Trybe. </p>
