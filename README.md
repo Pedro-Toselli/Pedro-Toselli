@@ -6,7 +6,7 @@
        Pedro-Toselli
      </a>
     </strong></h3>
-  <p> 🚀 Um dev júnior engajado, que ama aprender !!! 😄 </p>
+  <p> 🚀 Um dev júnior engajado, que ama aprender e ensinar !!! 😄 </p>
 </div>
 
 ##
