@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="400px"> <br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="300px"> <br>
 
 <div id="title">
   <h3><strong>Olá 👋, eu sou o 
@@ -6,7 +6,8 @@
        Pedro-Toselli
      </a>
     </strong></h3>
-  <p> 🚀 Um dev júnior engajado, que ama aprender e ensinar !!! 😄 </p>
+<!--   <p> 🚀 Um dev júnior engajado, que ama aprender e ensinar !!! 😄 </p> -->
+  <p> 🚀 Talk is cheap. Show me the code ! <em> - Linus torvalds</em> 🧑‍🚀</p> 
 </div>
 
 ##
