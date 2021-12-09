@@ -83,6 +83,15 @@
     Certificado - Front-End | Trybe
   </a>
   
+  <br>
+  
+  <a target="_blank" href="https://drive.google.com/file/d/1Rkw6sEysBuTr6noqX2pScfXxSeTiZ8ch/view?usp=sharing">
+    Certificado - Back-End | Trybe
+  </a>
+  
+  
+  
+  
 </div>
 
 ##
