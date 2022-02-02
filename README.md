@@ -49,10 +49,10 @@
     <img alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   </a>
     &nbsp;&nbsp;
-   <a target="_blank" href="https://nextjs.org/docs/getting-started" rel="nofollow">
+  <!-- <a target="_blank" href="https://nextjs.org/docs/getting-started" rel="nofollow">
      <img alt="React" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
    </a>
-    &nbsp;&nbsp;
+    &nbsp;&nbsp; -->
     <a target="_blank" href="https://nodejs.org/pt-br/docs/" rel="nofollow">
     <img alt="Node js" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   </a>
