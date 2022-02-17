@@ -76,7 +76,7 @@
 
 <div id="study">
   <p> <strong>Sobre meus estudos e experiências...</strong></P>
-  <p> Atualmente, sou um desenvolvedor Web Full-Stack formado pela Trybe. </p>
+  <p> Atualmente, sou um desenvolvedor full-stack formado pela Trybe. </p>
   <a target="_blank" href="https://drive.google.com/file/d/1jqwhwBGEGNBbbssT0z1MVhi2lSXfHsLy/view?usp=sharing">
     Certificado - Fundamentos de Desenvolvimento Web | Trybe
   </a>
