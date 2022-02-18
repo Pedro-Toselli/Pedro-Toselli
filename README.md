@@ -7,7 +7,7 @@
      </a>
     </strong></h3>
 <!--   <p> 🚀 Um dev júnior engajado, que ama aprender e ensinar !!! 😄 </p> -->
-  <p> 🚀 "Talk is cheap. Show me the code." <em> - Linus torvalds</em> 🧑‍🚀</p> 
+  <p> 🚀 "<em>O que eu sei, eu <strong>ensino</strong>. O que eu não sei, eu <strong>aprendo</strong>.</em>" 🧑‍🚀</p> 
 </div>
 
 ##
