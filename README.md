@@ -144,7 +144,8 @@
 </a>
 
 
-<!-- ## -->
+##
+
 
 <div id="cat-gifs">
   <p> :octocat: <strong>Gifs de gatinhos codando pra alegrar seu dia...</strong></p>
