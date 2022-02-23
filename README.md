@@ -129,7 +129,7 @@
 
 ##
 
-#### Estatísticas...
+<p>📈 <strong>Estatisticas ...</strong></p>
   
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula)
