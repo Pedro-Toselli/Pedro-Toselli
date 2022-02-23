@@ -13,7 +13,7 @@
 ##
 
 <div id="social">
-  <p><strong>📫 Entre em contato comigo:</strong></p>
+  <p>📫 <strong>Entre em contato comigo:</strong></p>
   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
    <img alt="LinkdeIn de Pedro Toselli" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -33,7 +33,7 @@
 ##
 
 <div id="tools">
-  <p><strong>Linguagens e ferramentas: </strong></p>
+  <p>🔧 <strong>Linguagens e ferramentas:</strong></p>
   <p>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
     <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -77,7 +77,7 @@
 ##
 
 <div id="study">
-  <p> <strong>Sobre meus estudos e experiências...</strong></P>
+  <p>📖 <strong>Sobre meus estudos e experiências...</strong></P>
   <p> Atualmente, sou um desenvolvedor full-stack formado pela Trybe. </p>
   <a target="_blank" href="https://drive.google.com/file/d/1jqwhwBGEGNBbbssT0z1MVhi2lSXfHsLy/view?usp=sharing">
     Certificado - Fundamentos de Desenvolvimento Web | Trybe
@@ -103,7 +103,7 @@
 ##
 
 <div id="about">
-  <p><strong>Sobre mim ...</strong></p>
+  <p>🗒️ <strong>Sobre mim ...</strong></p>
   <ul>
     <li>🙇‍♂️  Tenho 21 anos. </li>
     <li>🐱  Sou apaixonado por gatos. </li>
@@ -116,9 +116,16 @@
 ##
 
 <div id="hobbye">
-  <p><strong>No tempo livre eu...</strong></p>
+  <p>🍏  <strong>No tempo livre eu...</strong></p>
   <p>Gosto muito de ver os avanços tecnológicos, e também, ler sobre projetos de redução dos impactos ambientais e energia limpa. 🌲</p>
 </div>
+
+<!-- 
+<div id="projects">
+  <p>🎨 <strong>Meus projetos...</strong></p>
+  <p>[Em manutenção]</p>
+</div> 
+-->
 
 ##
 
@@ -140,7 +147,7 @@
 <!-- ## -->
 
 <div id="cat-gifs">
-  <p><strong>Gifs de gatinhos codando pra alegrar seu dia...</strong></p>
+  <p> :octocat: <strong>Gifs de gatinhos codando pra alegrar seu dia...</strong></p>
   <p>
     <img align="center" alt="GIF" src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="80px">
     <img align="center" alt="GIF" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="80px">
@@ -152,7 +159,7 @@
 <br>
 
 ##
-<!-- OLÁ DEV TRANQUILO(A)? ESPERO QUE SIM! CASO QUEIRA UTILIZAR ESSE TEMPLATE, FAVOR NÃO APAGAR A REFERÊNCIA ABAIXO <3  -->
+<!-- Olá Pessoa desenvolvedora, tudo bem ? ESPERO QUE SIM! CASO QUEIRA UTILIZAR ESSE TEMPLATE, FAVOR NÃO APAGAR A REFERÊNCIA ABAIXO <3 abraços -->
 <div id="footer">
   🥇 Desenvolvido por <a href="https://github.com/Pedro-Toselli" >Pedro-Toselli</a>.
 </div>
