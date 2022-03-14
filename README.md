@@ -6,8 +6,8 @@
        Pedro-Toselli
      </a>
     </strong></h3>
-<!--   <p> 🚀 Um dev júnior engajado, que ama aprender e ensinar !!! 😄 </p> -->
-  <p> 🚀 "<em>O que eu sei, eu <strong>ensino</strong>. O que eu não sei, eu <strong>aprendo</strong>.</em>" 🧑‍🚀</p> 
+  <p> 🚀 Um dev júnior engajado, que ama aprender !!! 😄 </p>
+<!--  <p> 🚀 "<em>O que eu sei, eu <strong>ensino</strong>. O que eu não sei, eu <strong>aprendo</strong>.</em>" 🧑‍🚀</p> -->
 </div>
 
 ##
