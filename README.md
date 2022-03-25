@@ -81,21 +81,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Toselli&layout=compact&theme=dracula" width="350px" />
 </a>
 
-
-##
-
-
-
-  #### :octocat: Gifs de gatinhos codando pra alegrar seu dia...
-  <p>
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/LWJ7cKyiWPCnVyuAhT/giphy.gif" width="80px">
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/maNB0qAiRVAty/giphy.gif" width="80px">
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="80px">
-    <img align="center" alt="GIF" src="https://media.giphy.com/media/905GG7MjDw61q/giphy.gif" width="80px">
-  </p>
-
-<br>
-
 ##
 <!-- Olá Pessoa desenvolvedora, tudo bem ? ESPERO QUE SIM! CASO QUEIRA UTILIZAR ESSE TEMPLATE, FAVOR NÃO APAGAR A REFERÊNCIA ABAIXO, abraços -->
   🥇 Desenvolvido por [Pedro-Toselli](https://github.com/Pedro-Toselli).
