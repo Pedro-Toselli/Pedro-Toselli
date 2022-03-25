@@ -22,7 +22,7 @@
 ##
 
 
-  #### 🔧Linguagens e ferramentas:
+  #### 🔧 Linguagens e ferramentas:
   <p>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
     <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
