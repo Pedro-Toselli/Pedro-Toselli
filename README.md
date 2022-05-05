@@ -3,7 +3,7 @@
 
   ### Olá 👋, eu sou o [Pedro-Toselli](https://github.com/Pedro-Toselli)
   
-  🚀 Um dev júnior engajado, que ama aprender !!! 😄
+  🍃 Focado em sustentabilidade, educação e tecnologia. 👨‍💻
 
 ##
 
