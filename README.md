@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150px"> <br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150px" height="150px" > <br>
 
   ### Hi 👋, my name is [Pedro-Toselli](https://github.com/Pedro-Toselli).
   
