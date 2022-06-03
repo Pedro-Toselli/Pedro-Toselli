@@ -70,7 +70,12 @@
 ##
 
 #### 📈 github stats ...
-  
+
+<a href="http://www.github.com/Pedro-Toselli">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="360px"/>
+</a>
+
+  <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula" width="420px" />
 </a>
@@ -79,7 +84,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Toselli&layout=compact&theme=dracula" width="350px" />
 </a>
 
-<!--
 <a href="http://www.github.com/Pedro-Toselli">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" />
 </a>
