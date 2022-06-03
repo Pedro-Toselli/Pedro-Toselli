@@ -6,7 +6,7 @@
   
 </br>
   
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pedro-Toselli.Pedro-Toselli&left_color=blue&right_color=orange)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pedro-Toselli.Pedro-Toselli&left_color=blue&right_color=Chocolate)
 
 ##
 
