@@ -3,7 +3,7 @@
 
   ### Olá 👋, eu sou o [Pedro-Toselli](https://github.com/Pedro-Toselli)
   
-  🍃 Focado em sustentabilidade, educação e tecnologia. 👨‍💻
+  🍃 Focado em educação, tecnologia e sustentabilidade. 👨‍💻
 
 ##
 
