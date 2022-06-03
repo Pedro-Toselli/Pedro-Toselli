@@ -61,7 +61,7 @@
 ##
 
 #### 🗒️ Sobre mim ...
-    🙇‍♂️  Tenho 21 anos.
+    🙇‍♂️  Tenho 22 anos.
     🐱  Sou apaixonado por gatos.
     🍃  Natureza e tecnologia são a combinação perfeita para mim.
     🎮  Meu hobby favorito se resume em jogar video-game com meus amigos.
