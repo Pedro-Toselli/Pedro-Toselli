@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150px" height="150px" > <br>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="180px" height="180px" > <br>
 
   ### Hi 👋, my name is [Pedro-Toselli](https://github.com/Pedro-Toselli).
   
@@ -72,7 +72,7 @@
   
 ##
 
-#### 🗒️ about me ...
+#### 👨‍💻 about me ...
 
     🙇‍♂️  I'm 22 years old.
     🐱  I love cats.
@@ -93,24 +93,6 @@
 <a href="http://www.github.com/Pedro-Toselli">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380px" />
 </a>
-
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula" width="420px" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Toselli&layout=compact&theme=dracula" width="350px" />
-</a>
-
-<a href="http://www.github.com/Pedro-Toselli">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" />
-</a>
-
-<a href="http://www.github.com/Pedro-Toselli">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-</a>
--->
 
 ##
 
