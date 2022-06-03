@@ -1,25 +1,24 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150px"> <br>
 
-
-  ### Olá 👋, eu sou o [Pedro-Toselli](https://github.com/Pedro-Toselli)
+  ### Hi 👋, my name is [Pedro-Toselli](https://github.com/Pedro-Toselli)
   
-  🍃 Focado em educação, tecnologia e sustentabilidade. 👨‍💻
+  🍃 Focused on education, technology and sustainability. 👨‍💻
 
 ##
 
 
-  #### 📫 Entre em contato comigo:
+  #### 📫 contact me:
   <a target="_blank" href="https://www.linkedin.com/in/pedrotoselli/" rel="nofollow">
    <img alt="LinkdeIn de Pedro Toselli" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="mailto:phtoselli@gmail.com?Subject=Título%20da%20mensagem">
+  <a href="mailto:pedro.toselli@betrybe.com?Subject=Título%20da%20mensagem">
     <img alt="Gmail de Pedro Toselli" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
 ##
 
 
-  #### 🔧 Linguagens e ferramentas:
+  #### 🔧 tools:
   <p>
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
     <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -60,16 +59,17 @@
   
 ##
 
-#### 🗒️ Sobre mim ...
-    🙇‍♂️  Tenho 22 anos.
-    🐱  Sou apaixonado por gatos.
-    🍃  Natureza e tecnologia são a combinação perfeita para mim.
-    🎮  Meu hobby favorito se resume em jogar video-game com meus amigos.
-    💁  Inclusão, respeito e empatia são valores importantíssimos que sempre levo comigo.
+#### 🗒️ about me ...
+
+    🙇‍♂️  I'm 22 years old.
+    🐱  I love cats.
+    🍃  In love with nature.
+    🎮  My favorite hobby is playing video games.
+    💁  Inclusion, respect and empathy are very important values that I always carry with me.
 
 ##
 
-#### 📈 Estatisticas ...
+#### 📈 github stats ...
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula" width="420px" />
@@ -79,6 +79,4 @@
 </a>
 
 ##
-<!-- Olá Pessoa desenvolvedora, tudo bem ? ESPERO QUE SIM! CASO QUEIRA UTILIZAR ESSE TEMPLATE, FAVOR NÃO APAGAR A REFERÊNCIA ABAIXO, abraços -->
-  🥇 Desenvolvido por [Pedro-Toselli](https://github.com/Pedro-Toselli).
-##
+  ###### 🥇 Developed by [Pedro-Toselli](https://github.com/Pedro-Toselli).
