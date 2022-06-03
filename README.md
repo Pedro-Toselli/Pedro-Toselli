@@ -53,8 +53,8 @@
       <img alt="my Sql" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
     </a>
     &nbsp;&nbsp;&nbsp;
-    <a target="_blank" href="https://docs.python.org/" rel="nofollow">
-      <img alt="Python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+    <a target="_blank" href="https://docs.docker.com/" rel="nofollow">
+      <img alt="Python" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
     </a>
   </p>
   
