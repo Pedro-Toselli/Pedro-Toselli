@@ -28,16 +28,21 @@
 
   #### 🔧 tools:
   <p>
+  &nbsp;&nbsp;
+  <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
+    <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+  </a>
+  &nbsp;&nbsp;
+  <a target="_blank" href="https://www.typescriptlang.org/docs/" rel="nofollow">
+    <img alt="Typescript logo" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+  </a>
+  &nbsp;&nbsp;
   <a target="_blank" href="https://www.w3schools.com/tags/default.asp" rel="nofollow">
     <img alt="html5" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   </a>
     &nbsp;&nbsp;
   <a target="_blank" href="https://www.w3schools.com/cssref/default.asp" rel="nofollow">
     <img alt="css3" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-  </a>
-    &nbsp;&nbsp;
-  <a target="_blank" href="https://www.w3schools.com/jsref/default.asp" rel="nofollow">
-    <img alt="Java script" width="38px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   </a>
     &nbsp;&nbsp;
   <a target="_blank" href="https://pt-br.reactjs.org/docs/getting-started.html" rel="nofollow">
@@ -77,15 +82,19 @@
 
 ##
 
-<!--
+
 
 #### 📈 github stats ...
 
 <a href="http://www.github.com/Pedro-Toselli">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="360px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="380px" />
 </a>
 
-  
+<a href="http://www.github.com/Pedro-Toselli">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380px" />
+</a>
+
+<!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula" width="420px" />
 </a>
@@ -101,8 +110,8 @@
 <a href="http://www.github.com/Pedro-Toselli">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
+-->
 
 ##
--->
 
 ###### 🥇 Developed by [Pedro-Toselli](https://github.com/Pedro-Toselli).
