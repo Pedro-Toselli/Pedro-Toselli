@@ -69,13 +69,15 @@
 
 ##
 
+<!--
+
 #### 📈 github stats ...
 
 <a href="http://www.github.com/Pedro-Toselli">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="360px"/>
 </a>
 
-  <!--
+  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&theme=dracula" width="420px" />
 </a>
@@ -92,5 +94,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
 -->
+
 ##
   ###### 🥇 Developed by [Pedro-Toselli](https://github.com/Pedro-Toselli).
