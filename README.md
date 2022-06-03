@@ -91,7 +91,7 @@
 </a>
 
 <a href="http://www.github.com/Pedro-Toselli">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=FFFFFF00&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=FFFFFF00&ring=14b8a6&fire=14b8a6&currStreakNum=gray&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380px" />
 </a>
 
 ##
