@@ -93,7 +93,8 @@
 <a href="http://www.github.com/Pedro-Toselli">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </a>
--->
 
 ##
-  ###### 🥇 Developed by [Pedro-Toselli](https://github.com/Pedro-Toselli).
+-->
+
+###### 🥇 Developed by [Pedro-Toselli](https://github.com/Pedro-Toselli).
