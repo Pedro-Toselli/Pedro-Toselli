@@ -1,8 +1,12 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150px"> <br>
 
-  ### Hi 👋, my name is [Pedro-Toselli](https://github.com/Pedro-Toselli)
+  ### Hi 👋, my name is [Pedro-Toselli](https://github.com/Pedro-Toselli).
   
   🍃 Focused on education, technology and sustainability. 👨‍💻
+  
+</br>
+  
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Pedro-Toselli.Pedro-Toselli&left_color=blue&right_color=orange)
 
 ##
 
@@ -12,11 +16,15 @@
    <img alt="LinkdeIn de Pedro Toselli" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:pedro.toselli@betrybe.com?Subject=Título%20da%20mensagem">
-    <img alt="Gmail de Pedro Toselli" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <img alt="Gmail de Pedro Toselli" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white">
   </a>
+  
+  <a href="https://twitter.com/PedroToselli">
+    <img alt="Twitter URL" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+  </a>
+  
 
 ##
-
 
   #### 🔧 tools:
   <p>
