@@ -87,11 +87,11 @@
 #### 📈 github stats ...
 
 <a href="http://www.github.com/Pedro-Toselli">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=181824&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=ffffff&icon_color=14b8a6&bg_color=FFFFFF00&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="380px" />
 </a>
 
 <a href="http://www.github.com/Pedro-Toselli">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=181824&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-Toselli&stroke=ffffff&background=FFFFFF00&ring=14b8a6&fire=14b8a6&currStreakNum=ffffff&currStreakLabel=14b8a6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="380px" />
 </a>
 
 ##
