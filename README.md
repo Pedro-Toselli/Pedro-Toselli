@@ -87,7 +87,7 @@
 #### 📈 github stats ...
 
 <a href="http://www.github.com/Pedro-Toselli">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=14b8a6&text_color=gray&icon_color=14b8a6&bg_color=FFFFFF00&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="380px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=1E90FF&text_color=gray&icon_color=1E90FF&bg_color=FFFFFF00&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="380px" />
 </a>
 
 <a href="http://www.github.com/Pedro-Toselli">
