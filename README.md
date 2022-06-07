@@ -4,7 +4,7 @@
 
 ###### I'm a backend developer with a special passion for frontend. </br> I think technology and education have a wonderful impact on people's lives. </br> And that's why I chose to be a developer and instructor.
 
-##
+
 
 <a href="http://www.github.com/Pedro-Toselli">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Toselli&show_icons=true&hide=&count_private=true&title_color=1E90FF&text_color=gray&icon_color=1E90FF&bg_color=FFFFFF00&hide_border=true&show_icons=true" alt="Pedro-Toselli's GitHub stats" width="380px" align="left"/>
