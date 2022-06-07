@@ -4,6 +4,8 @@
 
 ###### I'm a backend developer with a special passion for frontend. </br> I think technology and education have a wonderful impact on people's lives. </br> And that's why I chose to be a developer and instructor.
 
+> *“It’s kind of fun to do the impossible.”* Walt Disney
+
 ##
 
 <a href="http://www.github.com/Pedro-Toselli">
