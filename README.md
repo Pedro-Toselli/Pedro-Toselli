@@ -1,6 +1,6 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="150px" height="150px" > <br>
 
-#### Hi 👋, my name is [Pedro-Toselli](https://github.com/Pedro-Toselli).
+#### Hi 👋🏼 , my name is [Pedro-Toselli](https://github.com/Pedro-Toselli).
 
 ##### I'm a backend developer with a special passion for frontend. </br> I think technology and education have a wonderful impact on people's lives, </br> and that's why I chose to be a development instructor.
 
